@@ -1,6 +1,6 @@
 ## **Клиент-серверное приложение ВКонтакте**
 ### Документация - [API-VK](https://dev.vk.com)
-:white_check_mark: [Аворизация ВКонтакет](https://vk.com/)
+:white_check_mark: [Аворизация ВКонтакте](https://vk.com/)
   + WebKit - авторизация
   + Singleton - cохранения токена 
 
