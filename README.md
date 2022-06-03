@@ -16,5 +16,7 @@
 :white_check_mark: Получение новостей пользователя
   + Pull-to-refresh
   + Infinite Scrolling
+  + Alamofire
+  + Kingfisher
 
 ![Groups](https://github.com/ArturKondratev/VK-API/blob/main/screen/groups+.png?raw=true, "Groups") ![News](https://github.com/ArturKondratev/VK-API/blob/main/screen/news.png?raw=true, "News")
